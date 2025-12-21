@@ -40,7 +40,7 @@ export const PriceCard: React.FC = () => {
                 <span className="text-gray-400 line-through text-xl mb-2 decoration-red-400 decoration-2">R$ 79,90</span>
                 <div className="text-green-700 font-black text-6xl tracking-tighter drop-shadow-sm">
                   <span className="text-3xl align-top font-bold mr-1 text-green-600">R$</span>
-                  17,90
+                  9,97
                 </div>
               </div>
             </div>
