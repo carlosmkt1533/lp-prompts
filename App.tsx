@@ -40,7 +40,7 @@ const App: React.FC = () => {
             Não deixe o próximo cliente escapar.
           </h2>
           <p className="text-gray-300 mb-8 text-lg">
-            Por apenas R$ 17,90, você resolve seu maior problema de vendas hoje.
+            Por apenas R$ 9,90, você resolve seu maior problema de vendas hoje.
           </p>
           <div className="w-full max-w-md">
             <Button 
